@@ -1,4 +1,4 @@
-# Análisis de datos del mercado bancario: 
+# Análisis de datos del mercado:
 
 ## Determinando las características que influyen en la decisión de adquirir un producto.
 
